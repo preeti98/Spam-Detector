@@ -1,6 +1,6 @@
 # Spam-Detector
 
-This is a spam detector that returns whether the message of a given email is Spam or not. Here, a common machine learning method, Naive Base has been used.
+This is a spam detector that returns whether the message of a given email is Spam or not. Here, a common machine learning method, Naive Bayes has been used.
 
 ## Dependancies
 
